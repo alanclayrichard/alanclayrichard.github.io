@@ -87,24 +87,27 @@ h3 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.footer a {
+a {
     color: black;
     text-decoration: none;
-    float: left;
-    clear: none
-    
+    clear: none 
 }
 
-.footer div {
+.contact p{
+    padding: 5%;
+    max-width: 300px;
+}
+
+.contact div{
     padding: 2%;
     float: left;
-    clear: none
 }
 
-.footer img{
+.contact img{
     float: right;
-    width: 300px;
-    height: auto;    
+    width: auto;
+    height: auto;   
+    max-width: 100%;    
 }
 
 .about div{
@@ -127,4 +130,34 @@ h3 {
     color: black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding: 10%;
+}
+
+.publications a:hover{
+    color:#03244d;
+}
+
+.footer a {
+    color: black;
+    text-decoration: none;
+    float: left;
+    clear: none
+    
+}
+
+.footer a:hover{
+    background-color: lightgrey;
+    color: white;
+}
+
+.footer div{
+    padding: 2%;
+    float: left;
+    clear: none
+}
+
+.footer img{
+    float: right;
+    width: auto;
+    height: auto;   
+    max-width: 40%;    
 }

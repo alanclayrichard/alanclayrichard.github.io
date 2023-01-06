@@ -99,5 +99,32 @@ h3 {
     padding: 2%;
     float: left;
     clear: none
-    just
+}
+
+.footer img{
+    float: right;
+    width: 300px;
+    height: auto;    
+}
+
+.about div{
+    padding: 0%;
+}
+.about h3{
+    padding: 5%;
+}
+
+.about p{
+    padding: 5%;
+}
+
+.publications h3{
+    padding: 5%;
+}
+
+.publications a{
+    text-decoration: none;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10%;
 }

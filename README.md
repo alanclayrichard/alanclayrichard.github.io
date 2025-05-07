@@ -1,2 +1,2 @@
 # A. Clay Richard Personal Website
-[https.](https://alanclayrichard.github.io)
+[link](https://alanclayrichard.github.io)

@@ -2,7 +2,7 @@
 title: "Using MD simulation to understand Ab/Ag binding"
 collection: publications
 category: manuscripts
-permalink: /publications/EPPI_paper
+permalink: /publication/EPPI_paper
 excerpt: 'This paper detailed the use of Molecular Dyanmics to define Expected Persistent Pairwise Interactions (EPPI) for Antibody-Antigen Complexes'
 date: 2024-11-27
 venue: 'Proteins: Structure, Function, and Bioinformatics'

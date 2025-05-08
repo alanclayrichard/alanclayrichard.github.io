@@ -9,7 +9,7 @@ redirect_from:
 
 ## Hello!
 
-I am Clay, a soon-to-be Ph.D. graduate in Chemical Engineering from Auburn University with a passion for advancing the frontiers of protein engineering and biomolecular design. As I approach this pivotal transition in my academic journey, I'm actively seeking opportunities that will allow me to apply my expertise in computational and experimental protein design to solve real-world challenges.
+I am Clay, a soon-to-be Ph.D. graduate in Chemical Engineering from Auburn University with a passion for advancing the frontiers of protein engineering and biomolecular design. As I approach this transition in my academic journey, I'm actively seeking opportunities that will allow me to apply my expertise in computational protein design to solve real-world challenges.
 
 ## About me
 
